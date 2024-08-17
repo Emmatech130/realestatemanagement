@@ -1,0 +1,228 @@
+body {
+    background-color: white;
+}
+
+.okay {
+    padding: 5%;
+    margin-left: 10PX;
+}
+li {
+    padding: 12px;
+    cursor: pointer;
+    color: white;
+    text-shadow: 1px 1px 2px navy;
+}
+
+span {
+    padding-inline: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.tech {
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px #3b5998;
+    -webkit-text-fill-color: orangered;
+    -webkit-text-stroke-width: 2px;
+    padding-bottom: 10px;
+
+}
+
+.pen {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1px 1px 2px #fff;
+    -webkit-text-fill-color: #fff;
+    -webkit-text-stroke-width: 2px;
+    margin-top: 50px;
+
+}
+
+.pix {
+
+    float: right;
+    margin-top: 10px;
+    border: 2px solid aliceblue;
+}
+
+#header {
+    background-image: url(img/arti.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+    height: 80vh;
+}
+.emma {
+    margin-top: 5%;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    margin-left: 15px;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: navy;
+    text-shadow: 1px 1px 2px black;
+}
+#emma {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    margin-left: 15px;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-fill-color: navy;
+    text-shadow: 1px 1px 2px red;
+}
+.n {
+   border-radius: 100%; 
+}
+.mygrid {
+    margin-top: 20px;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+
+}
+
+
+.mygrid {
+    text-align: center;
+    cursor: pointer;
+    padding: 40px 20px;
+    box-shadow: 0 0 20px 0px rgb(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 10px;
+   
+    color: black;
+    width: 90%;
+
+}
+
+.mygrid:hover {
+    background-color: rgb(140, 140, 177);
+}
+
+
+.pen {
+    
+    text-align: center;
+}
+.font {
+    font-size: medium;
+    color: #fff;
+    
+}
+
+.mygood {
+    text-align: center;
+    cursor: pointer;
+    padding: 40px 20px;
+    box-shadow: 0 0 20px 0px rgb(0, 0, 0,0.1);
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 10px;
+}
+
+.mygrid {
+    margin-top: 20px;
+
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    margin-left: 1%;
+}
+
+
+.mygrid1 {
+    text-align: center;
+    cursor: pointer;
+    padding: 40px 20px;
+    box-shadow: 0 0 20px 0px rgb(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.5s;
+    margin-top: 10px;
+   
+    color: black;
+    width: 90%;
+    
+}
+
+.mygrid1:hover {
+    background-color:rgb(140, 140, 177);
+}
+
+.about {
+    font-weight: 800;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 2px navy;
+    margin-top: 3%;
+}
+
+.abouto {
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.abouta{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 2px;
+}
+
+.we {
+    text-align: center;
+    color: navy;
+}
+
+.us {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 1%;
+}
+
+
+
+.btn {
+    margin-top: 1%;
+}
+
+.price {
+    text-align: right;
+}
+
+.real {
+    background-color: blue;
+    padding: 5%;
+}
+
+.don {
+    background-image: url(img/contanct.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 200px;
+    height: 100vh;
+}
+input:hover{
+    background-color: blue;
+}
+
+.two {
+    margin-left: 5%;
+}
+
+.foot {
+   
+
+}
